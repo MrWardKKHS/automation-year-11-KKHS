@@ -5,7 +5,8 @@ This template creates student repositories for our AS91884 and AS91883 project.
 # 👨‍🏫 Before you code 🐍 
 
 ###  🔥 Check out the [Task](documents/task.md)
-###  🔥 Read the [Assessment Schedules](documents/assessment_schedule_91883.md)
+###  🔥 Read the [91883 Assessment Schedule](documents/assessment_schedule_91883.md)
+###  🔥 And the [91884 Assessment Schedule](documents/assessment_schedule_91884.md)
 ###  🔥 Complete the [Planning Document](documents/planning/the_plan.md)
 ###  🔥 Get familiar with the [Testing](documents/testing-and-trialing/testing.md) and [Trialing](documents/testing-and-trialing/trialing.md) examples
 ###  🔥 Look through the list of [Suggestions](documents/task.md)

@@ -1,4 +1,4 @@
-# The plan
+# The Plan
 
 What will your program do? 
 > write here
