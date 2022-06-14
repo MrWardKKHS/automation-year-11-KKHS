@@ -38,15 +38,17 @@ You might consider making any of the following…
 >- Collect weather forecasts for several campsites or hiking trails to see which one will have the best weather.
 >- A program that adds a watermark to all photos that you have taken
 >- Automate ordering groceries for click and collect
+>- A program that finds the largest files in a directory
+>- A todo list that a user can add and remove tasks from
+>- A quiz program that retrives questions from an API
 >- Any other task with the approval of your teacher
-|
 
 ### You need to think about:
 
 - Who your program is for
 - What user inputs you will need
 - How the questions and answers will be stored.
-- How you will give feedback to the user_._
+- How you will give feedback to the user.
 
 ### Planning: You must:
 
@@ -58,7 +60,7 @@ You might consider making any of the following…
 - Try various options when creating your program. You should choose the options which work best and provide evidence of your trialing.
 - Comment your code.
 - Code, test, and debug each component/sub-component before moving on. Create a new version of your program for each iteration.
-- Systematically test your code (follow your test plan). Include screenshots (or video evidence) showing that your program&#39;s output matches the plan&#39;s expected values and has been tested with relevant boundary cases.
+- Systematically test your code (follow your test plan). Include screenshots (or video evidence) showing that your program's output matches the plan's expected values and has been tested with relevant boundary cases.
 
 ### Additional Evidence
 
