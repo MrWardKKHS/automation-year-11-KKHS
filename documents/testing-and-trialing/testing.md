@@ -3,7 +3,9 @@
 
 Date: 1/1/2022
 
-```please input a number between 1 and 10```
+```python
+choice = input('please input a number between 1 and 10')
+```
 
 | Test Data | Expected | Observed |
 | --------- | -------- | -------- |
